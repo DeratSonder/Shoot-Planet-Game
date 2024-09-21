@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_version": "0.0.0.2",
+  "option_operagx_next_version": "0.0.0.3",
+  "option_operagx_game_name": "Meteoriod Shoot",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "c1f2a91f-74ef-4bf9-b7a5-69b2a245eb7e",
+  "option_operagx_team_name": "duonghuutuong0712 studio",
+  "option_operagx_team_id": "d9d3b0f8-db85-410e-9af7-bd52fe3aca19",
+  "option_operagx_editUrl": "https://create.gx.games/game/c1f2a91f-74ef-4bf9-b7a5-69b2a245eb7e/edit",
+  "option_operagx_internalShareUrl": "https://gx.games/games/9oi4u6/meteoriod-shoot/tracks/1891a1a4-023e-4674-93bd-904e9ebc8854/",
+  "option_operagx_publicShareUrl": "https://gx.games/games/9oi4u6/meteoriod-shoot/",
+}
